@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\632210040\\source\\repos\\SabaStore\\SabaStore\\SabaStore.csproj": {}
+    "C:\\Users\\632210040\\Desktop\\Nova pasta\\Enviar_auladecsSENAC\\SabaStore\\SabaStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\632210040\\source\\repos\\SabaStore\\SabaStore\\SabaStore.csproj": {
+    "C:\\Users\\632210040\\Desktop\\Nova pasta\\Enviar_auladecsSENAC\\SabaStore\\SabaStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\632210040\\source\\repos\\SabaStore\\SabaStore\\SabaStore.csproj",
+        "projectUniqueName": "C:\\Users\\632210040\\Desktop\\Nova pasta\\Enviar_auladecsSENAC\\SabaStore\\SabaStore.csproj",
         "projectName": "SabaStore",
-        "projectPath": "C:\\Users\\632210040\\source\\repos\\SabaStore\\SabaStore\\SabaStore.csproj",
+        "projectPath": "C:\\Users\\632210040\\Desktop\\Nova pasta\\Enviar_auladecsSENAC\\SabaStore\\SabaStore.csproj",
         "packagesPath": "C:\\Users\\632210040\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\632210040\\source\\repos\\SabaStore\\SabaStore\\obj\\",
+        "outputPath": "C:\\Users\\632210040\\Desktop\\Nova pasta\\Enviar_auladecsSENAC\\SabaStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\632210040\\AppData\\Roaming\\NuGet\\NuGet.Config",

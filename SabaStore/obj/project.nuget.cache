@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L3v5Au2/8ScBo82bvPY2wKYtJ0OkOo05jvrgc8Vvs0qBf0PbsBv20yL0+Z+w6HULYq9Su5luHYBHz3JW7Qqh0A==",
+  "dgSpecHash": "LvcuDeIhqAmq+N9MGJ/DkDqyaBdYvpiAKB8gKahY/a+Tq/Ze3d/ibL7CPeoVQi1T0BR6AFB+1aluMtNZVYTgKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\632210040\\source\\repos\\SabaStore\\SabaStore\\SabaStore.csproj",
+  "projectFilePath": "C:\\Users\\632210040\\Desktop\\Nova pasta\\Enviar_auladecsSENAC\\SabaStore\\SabaStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\632210040\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\632210040\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

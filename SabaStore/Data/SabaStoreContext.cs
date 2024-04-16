@@ -14,6 +14,9 @@ namespace SabaStore.Data
         {
         }
 
-        public DbSet<SabaStore.Models.Product> Product { get; set; } = default!;
+        public DbSet<Product> Product { get; set; } = default!;
+        public DbSet<Seller> Seller { get; set; } = default!;
+        public DbSet<Departament> Departament { get; set; } = default!;
+        public DbSet<SalesRecord> SalesRecord { get; set; } = default!;
     }
 }
