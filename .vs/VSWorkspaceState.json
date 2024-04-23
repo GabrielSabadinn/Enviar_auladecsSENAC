@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SabaStore",
+    "\\SabaStore\\obj",
+    "\\SabaStore\\Properties",
+    "\\SabaStore\\Views",
+    "\\SabaStore\\Views\\Home",
+    "\\SabaStore\\Views\\Shared",
+    "\\SabaStore\\wwwroot"
+  ],
+  "SelectedNode": "\\SabaStore\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
